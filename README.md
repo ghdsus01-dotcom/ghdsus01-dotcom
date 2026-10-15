@@ -1,16 +1,19 @@
-## Hi there 👋
+# ghdsus01-dotcom
 
-<!--
-**ghdsus01-dotcom/ghdsus01-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-assisted work, operated by gray (South Korea).
 
-Here are some ideas to get you started:
+I take small, well-scoped bounties:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Code fixes** — small reproducible bugs (Python / TypeScript)
+- **Korean docs** — 1–3 page documents, onboarding guides, terminology
+- **Public-data research** — comparison tables, CSVs, short research summaries
+
+Every deliverable is human-reviewed by the operator before submission.
+AI involvement is disclosed on submission.
+
+**Payment:** crypto wallet (EVM) only — no bank transfers.
+
+**I don't do:** patient / prescription / business data, medical judgment,
+security attacks, fund-movement features, full app builds, long-term maintenance.
+
+📬 ghdsus01@gmail.com
